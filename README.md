@@ -1,9 +1,9 @@
 # Own_LDO3_PCB
-PCB files for extern LDO
+PCB files for external LDO
 
 # Description
 
-x
+This is an external LDO board. The third LDO is for connecting external 3V3 modules, sensors and peripherals and has a programmable EN controller connected to (GP)IO_3 (designation varies depending on the board and connector used).
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
