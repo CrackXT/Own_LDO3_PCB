@@ -27,7 +27,8 @@ Bottom<br>
 Routing/Dimensions(inch)<br>
 ![LDO3_v1 0](https://user-images.githubusercontent.com/88975406/236675250-f18c2dba-1bfc-4a84-b1a6-be08af2731c4.png)
 
-Schematic -> Schematic as .pdf at the top of the page.
+Schematic<br>
+Schematic as .pdf at the top of the page.
 
 # License
 
