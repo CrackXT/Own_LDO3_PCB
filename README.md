@@ -7,6 +7,13 @@ This is an external LDO board. The third LDO is for connecting external 3V3 modu
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
+# Spec
+Vin:  3,3
+
+Vout: 3,3V
+
+Iout: 250mA
+
 # Serie
 
 - .dev
