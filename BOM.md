@@ -14,4 +14,4 @@ part list for Use
 2x 1.0µF 0805 https://www.reichelt.de/smd-vielschichtkondensator-g0805-1-0-f-25v-x7r-g0805-1-0-25-p89730.html?&trstct=pol_0&nbc=1
 
 # socket strips
-1x 1X5 https://www.reichelt.de/buchsenleiste-1-27mm-1x5-gerade-bkl-10120643-p266614.html?&trstct=pol_0&nbc=1
+1x 1X5 https://www.reichelt.de/buchsenleiste-2-54mm-1x5-gerade-bkl-10120947-p266672.html?&trstct=pol_0&nbc=1
