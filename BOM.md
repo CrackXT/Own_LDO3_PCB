@@ -6,9 +6,8 @@ part list for Use
 1x JST-SH4 (SMT - Axial) https://www.conrad.de/de/p/jst-stiftgehaeuse-platine-sh-polzahl-gesamt-4-rastermass-1-mm-bm04b-srss-tb-lf-sn-1-st-1426417.html
 
 # ic
-1x SN74AUP1G08DBVR SOT-23-5 https://www.digikey.de/de/products/detail/texas-instruments/SN74AUP1G08DBVR/864078
-
-1x NCP163ASN330T1G SOT-23-5 https://www.digikey.de/de/products/detail/onsemi/NCP163ASN330T1G/9694661
+1x SN74AUP1G08DBVR SOT-23-5 https://www.digikey.de/de/products/detail/texas-instruments/SN74AUP1G08DBVR/864078<br>
+1x NCP163ASN330T1G SOT-23-5 https://www.digikey.de/de/products/detail/onsemi/NCP163ASN330T1G/9694661<br>
 
 # capacitor
 2x 1.0µF 0805 https://www.reichelt.de/smd-vielschichtkondensator-g0805-1-0-f-25v-x7r-g0805-1-0-25-p89730.html?&trstct=pol_0&nbc=1
